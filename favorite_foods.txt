@@ -2,4 +2,4 @@ coffee
 fruit
 any chinese food
 hot pot
-crackers
+ice-cream
