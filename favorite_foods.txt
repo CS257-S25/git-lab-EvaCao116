@@ -1,3 +1,5 @@
 coffee
 fruit
 any chinese food
+hot pot
+milktea
